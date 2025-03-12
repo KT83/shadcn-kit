@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "docs-kit",
+  "homepage": "http://localhost:3000",
+  "items": [
+    {
+      "name": "button",
+      "type": "registry:component",
+      "title": "Button",
+      "description": "A button component",
+      "files": [
+        {
+          "path": "registry/button.tsx",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}

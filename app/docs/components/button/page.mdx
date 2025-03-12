@@ -1,0 +1,30 @@
+import { Button } from '@/registry/button'
+
+# Button
+
+A button component.
+
+export const source = `
+import { Button } from '@/components/docs-sidebar-next'
+
+export function ButtonDemo() {
+  return (
+    <div>
+      <Button>Click me</Button>
+    </div>
+  )
+}
+`
+
+<PreviewAndCode 
+  code={source} 
+  preview={
+  <div className='not-prose'>
+    <Button>Click me</Button>
+  </div>
+  } 
+/>
+
+## Installation
+
+<RegistryInstallation name="button" homepage="http://docs-kit.dev" />
