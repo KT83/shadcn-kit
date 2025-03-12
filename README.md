@@ -7,7 +7,7 @@ For more information, please visit [shadcn/ui's registry documentation](https://
 ## Start a new project
 
 ```
-npx create-next-app@latest --example "https://github.com/KT83/shadcn-kit.git"
+npx create-next-app@latest --example "https://github.com/KT83/shadcn-kit"
 ```
 
 ## How to build a component
